@@ -5,7 +5,7 @@
 
 Website for the UF Open Source Club Minihack.
 
-September 2025 
+September 28 2025 
 </div>
 
 ## Install
@@ -42,3 +42,17 @@ When the website is deployed, GitHub tends to automatically change the website's
 ## License
 [AGPL-3.0-or-later](LICENSE) <br/>
 Copyright (C) 2025 Open Source Club
+
+## TODO
+backend:
+    account creation/deletion
+    file upload
+
+Frontend:
+    medieval based design and UI
+    Profile page
+    account creation with resume upload section
+    connection to discord server
+
+optional:
+    discussion board 
