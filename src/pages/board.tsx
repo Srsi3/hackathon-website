@@ -1,0 +1,1 @@
+// board page for community posts and announcements - announcements also be posted on discord
